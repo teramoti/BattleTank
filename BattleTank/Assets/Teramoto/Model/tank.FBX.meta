@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 4bc122a0f67cdc94b8cf9bac26c183b2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Parts_G116_1_N001
+    100002: Parts_G207_1_N001
+    100004: Parts_TK09_1_N001
+    100006: //RootNode
+    100008: V2Xfm001
+    100010: V2Xfm002
+    100012: V2Xfm003
+    100014: VIFS001
+    100016: VIFS002
+    100018: VIFS003
+    100020: VIFS004
+    100022: VIFS005
+    100024: VIFS006
+    100026: VIFS007
+    100028: VPCa001
+    100030: Body
+    100032: Body 1
+    100034: Body 2
+    100036: Body 3
+    100038: Body 4
+    100040: Head
+    100042: Head 1
+    100044: Head 2
+    100046: Head 3
+    100048: turret
+    100050: turret 1
+    100052: turret 2
+    100054: turret 3
+    400000: Parts_G116_1_N001
+    400002: Parts_G207_1_N001
+    400004: Parts_TK09_1_N001
+    400006: //RootNode
+    400008: V2Xfm001
+    400010: V2Xfm002
+    400012: V2Xfm003
+    400014: VIFS001
+    400016: VIFS002
+    400018: VIFS003
+    400020: VIFS004
+    400022: VIFS005
+    400024: VIFS006
+    400026: VIFS007
+    400028: VPCa001
+    400030: Body
+    400032: Body 1
+    400034: Body 2
+    400036: Body 3
+    400038: Body 4
+    400040: Head
+    400042: Head 1
+    400044: Head 2
+    400046: Head 3
+    400048: turret
+    400050: turret 1
+    400052: turret 2
+    400054: turret 3
+    2000000: VPCa001
+    2100000: VMtl001
+    2100002: VMtl002
+    2100004: VMtl003
+    2100006: VMtl004
+    2100008: VMtl005
+    2100010: VMtl006
+    2100012: VMtl007
+    2300000: VIFS001
+    2300002: VIFS002
+    2300004: VIFS003
+    2300006: VIFS004
+    2300008: VIFS005
+    2300010: VIFS006
+    2300012: VIFS007
+    2300014: Body 2
+    2300016: Body 3
+    2300018: Body 4
+    2300020: Head 2
+    2300022: Head 3
+    2300024: turret 2
+    2300026: turret 3
+    3300000: VIFS001
+    3300002: VIFS002
+    3300004: VIFS003
+    3300006: VIFS004
+    3300008: VIFS005
+    3300010: VIFS006
+    3300012: VIFS007
+    3300014: Body 2
+    3300016: Body 3
+    3300018: Body 4
+    3300020: Head 2
+    3300022: Head 3
+    3300024: turret 2
+    3300026: turret 3
+    4300000: VIFS001
+    4300002: VIFS002
+    4300004: VIFS003
+    4300006: VIFS004
+    4300008: VIFS005
+    4300010: VIFS006
+    4300012: VIFS007
+    4300014: Body
+    4300016: Body
+    4300018: Body
+    4300020: Head
+    4300022: Head
+    4300024: turret
+    4300026: turret
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
